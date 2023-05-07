@@ -1,0 +1,14 @@
+#index{
+    background-image:url("/images/spotify-background.jpeg") ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    height: 1000px; ;
+}
+#container-form{
+    width: 700px;
+    height: 200px;
+    background-color: rgba(236,234,242,0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
